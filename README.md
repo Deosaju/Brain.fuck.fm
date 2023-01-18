@@ -13,3 +13,7 @@ The Unofficial Brain.fm Python Client can be installed using pip.
 pip install selenium
 
 Unofficial Brain.fm Python Client Documentation.
+
+
+Educational use Only !
+Don't Use Copyrighted content
